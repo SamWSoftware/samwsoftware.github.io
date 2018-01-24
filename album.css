@@ -38,7 +38,7 @@ body {
   overflow: hidden;
   background-size: cover;
   background-position: center center;
-  background-image: url("./pictures/spacecompressed.pjpg");
+  background-image: url("./pictures/spacecompressed.jpg");
   z-index: 1;
 }
 
